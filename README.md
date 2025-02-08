@@ -1,7 +1,7 @@
 
 # Hi There 👋
 
-My name is Michał and I am a fourth-year student of Information Technology at Cracow University of Technology. My current goal is to gain my first professional experience in the It field. I am eager to apply my skills and knowledge in a real-world work environment, learn from experienced professionals, and contribute to meaningful projects.
+My name is Michał and I am fresh graduated student of Computer Science at Cracow University of Technology. My current goal is to gain my first professional experience in the It field. I am eager to apply my skills and knowledge in a real-world work environment, learn from experienced professionals, and contribute to meaningful projects.
 
 
 ## 🚀 About Me
@@ -26,6 +26,10 @@ My name is Michał and I am a fourth-year student of Information Technology at C
 **Database:**
 
 *MySQL*, *PostgreSQL*, *PL/SQL*
+
+**Machine Learning:**
+
+*Scikit-learn*, *Pandas*, *Optuna*, *Supervised Learning*, *Google Colab*
 
 **Other Tools:**
 *Docker*, *Django*, *VS Code*
